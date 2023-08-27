@@ -2,9 +2,13 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando com site e redes sociais da Prefeitura de Valença
-- 🌱 Estou aprendendo React, Node JS e Next JS. (Bootcamp DIO Impulso Javascript e Hiring Coders 3 - Gama Academy e VTEX)
-- ⚡ Curiosidade: Gostou muito de marketing digital, acredito na educação e na transformação que ela traz.
++ 💻 Atualmente estou trabalhando com site e redes sociais da Prefeitura de Valença e como Professora na Secretaria de Estado de Educação do Rio de Janeiro
+
++ 🌟 Estou iniciando na Análise de Dados, concluindo alguns cursos e projetos. 
+  - Em andamento 🎓: Google+CIEE e Santander Bootcamp+DIO
+  - Concluído 🚀: Análise de Dados - FAETEC-RJ
+
++ 💘 Curiosidade: Gostou muito de marketing digital, acredito na educação e na transformação que ela traz.
 
 <h3 align= "left">Ferramentas e Tecnologias:</h3>
 <p align="left">  
@@ -16,9 +20,13 @@
   
   <h3 align= "left">Estou aprendendo:</h3>
   <p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>   
+  <img src="https://github.com/celamyrrha/celamyrrha/assets/20153847/6c45bb96-740f-4190-83ee-485d07209602.png" alt="r" width="40" height="40"/>
+
+  </p>
+          
+          
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
